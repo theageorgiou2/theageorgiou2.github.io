@@ -1,3 +1,10 @@
-.hero-image {
-	
+p {
+	font-size: 200%;
+	font-weight: bold;
 }
+.second-section{
+	/*background-color: white;*/
+}
+
+body {
+	background-color: #D67272;
